@@ -1,12 +1,18 @@
-scientific converter. h
+## A test plan is a document detailing the objectives, resources, and processes for a specific test for a software or hardware product. The plan typically contains a detailed understanding of the eventual workflow.
 
-#ifndef SCIENTIFIC_CONVERTER_H
-#define SCIENTIFIC_CONVERTER_H
+ ## Test coverage
+Test coverage in the test plan states what requirements will be verified during what stages of the product life. 
 
-#include <stdio.h>
+## Test methods
+Test methods in the test plan state how test coverage will be implemented.
 
+## High Level Requirements
+- Unit testing
+- Accuracy
+- Precision
+- Memory
+- 
 
-int trigo_mode(int func int a);
-int expon_mode(int func, int a);
-int const_mode(int func);
-#endif
+ ## Low Level Requirements
+ - Mass
+ 
